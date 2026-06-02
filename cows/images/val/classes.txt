@@ -1,0 +1,4 @@
+lying
+standing
+walking
+grazing

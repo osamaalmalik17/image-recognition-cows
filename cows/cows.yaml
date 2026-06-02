@@ -1,0 +1,8 @@
+path: C:\Users\AO\Desktop\cows
+train: images\train
+val: images\val
+names:
+  0: lying
+  1: standing
+  2: walking
+  3: grazing
